@@ -11,9 +11,9 @@
  *************************************************************/
 
 /* Fill-in information from Blynk Device Info here */
-#define BLYNK_TEMPLATE_ID "TMPLAlLYVSwm"
-#define BLYNK_TEMPLATE_NAME "398 74 Plant"
-#define BLYNK_AUTH_TOKEN "DdgBmZl5fL3wg52nM9IJBK-TdkkkpBIh"
+#define BLYNK_TEMPLATE_ID "XXXXXXXXXXX"
+#define BLYNK_TEMPLATE_NAME "XXXXXXXXXXX"
+#define BLYNK_AUTH_TOKEN "XXXXXXXXXXXXX"
 
 /* Comment this out to disable prints and save space */
 #define BLYNK_PRINT Serial
@@ -28,8 +28,8 @@
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Manoch_WIFI_2.4G";
-char pass[] = "50566468";
+char ssid[] = "XXXXXXXXXX";
+char pass[] = "XXXXXXX";
 int interval=0;
 int interintervalstart=0;
 int interintervalstop=0;
